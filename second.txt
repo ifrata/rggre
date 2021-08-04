@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-my fourthcommit
-=======
-yayyy its 8:02 PM
->>>>>>> parent of 17925f4 (thrisd one)
-=======
-my thirsd commit
->>>>>>> parent of 9cc74f6 (fouith one)
+gdfhfhgdfg
